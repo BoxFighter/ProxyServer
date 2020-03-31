@@ -62,5 +62,5 @@
 使用时需要指定缓存的存储目录，输入t可以指定默认目录，默认目录是同一文件夹下新建的tmp文件夹<br>
 ![](https://github.com/EccentricBox/ProxyServer/blob/master/PNG/14.png)<br>
 
-### 爱心打赏
+### 大哥请我喝瓶可乐
 ![](https://github.com/BoxFighter/ProxyServer/blob/master/money.png?raw=true)<br>
